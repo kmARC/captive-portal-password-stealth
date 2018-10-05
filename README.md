@@ -5,6 +5,7 @@ Demo for the 11th Swiss Cyber Think Tank
 
 Video:
 - [Demo video](./howto-steal-your-facebook-password-on-the-airport.mp4)
+- [Presentation](./20180927-markkorondi-find-your-it-risk-culprit.pdf)
 
 Files:
 - [initsoftap.sh](./initsoftap.sh) - Convenience script to run the demo
